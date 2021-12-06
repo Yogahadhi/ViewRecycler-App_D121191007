@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecyclerViewFundamentals.iml" filepath="$PROJECT_DIR$/.idea/modules/RecyclerViewFundamentals.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewFundamentals.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewFundamentals.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecyclerViewGridLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/RecyclerViewGridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewGridLayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewGridLayout.app.iml" />
     </modules>
   </component>
 </project>
